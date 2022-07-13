@@ -36,7 +36,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
               Padding(
                 padding: AppPaddings.horizontal,
                 child: Divider(
-                  height: 3,
+                  height: 2,
                   thickness: 5,
                   color: AppColors.BLUE_COLOR.withOpacity(0.2),
                 ),

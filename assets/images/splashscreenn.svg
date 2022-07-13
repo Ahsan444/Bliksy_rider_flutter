@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="268" height="269" viewBox="0 0 268 269">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.193" y1="0.807" x2="0.854" y2="0.023" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#03e8e8"/>
+      <stop offset="1" stop-color="#32eea3"/>
+    </linearGradient>
+  </defs>
+  <g id="Bliksy_Logo" data-name="Bliksy Logo" transform="translate(-0.111)">
+    <rect id="Rectangle_3666" data-name="Rectangle 3666" width="268" height="269" transform="translate(0.111)" fill="#017dd5"/>
+    <path id="Path_6700" data-name="Path 6700" d="M381.239,174.526a39.961,39.961,0,0,0-39.962-39.96h-70.47a17.022,17.022,0,0,0-17.022,17.022v95.044a17.024,17.024,0,0,0,17.022,17.024h0a34.566,34.566,0,0,0,33.548-26.236L307.688,224a1.82,1.82,0,0,0-1.767-2.259H279.764a1.821,1.821,0,0,1-1.7-2.474l23.917-62.214a1.817,1.817,0,0,1,1.7-1.169h29.592a1.82,1.82,0,0,1,1.7,2.474l-14.614,38.018a1.819,1.819,0,0,0,1.7,2.472h27.578a1.821,1.821,0,0,1,1.387,3l-39.8,46.815a9.1,9.1,0,0,0,6.933,15h23.125a39.963,39.963,0,0,0,39.962-39.962v-2.1a39.782,39.782,0,0,0-6.924-22.483,39.772,39.772,0,0,0,6.924-22.481Z" transform="translate(-183.606 -108.394)" fill="url(#linear-gradient)"/>
+    <text id="BLIKSY" transform="translate(39.111 225)" fill="#fff" font-size="60" font-family="PTSans-BoldItalic, PT Sans" font-weight="700" font-style="italic"><tspan x="0" y="0">BLIKSY</tspan></text>
+  </g>
+</svg>

@@ -52,7 +52,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                 ),
               ),
               SizedBox(
-                height: 30,
+                height: 29,
               ),
               Container(
                 child: Column(

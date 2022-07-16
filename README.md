@@ -1,8 +1,8 @@
 # bliksy
 
-Bliksy is an order pick and delivery app built in Flutter using MVVM architecture and for the state management, I use the GETX package.When rider create his account he can also add his picture from camera and gallery I also implement the firebase phone auth and FCM you can use it by adding it to your firebase project. Admin can fire the notification from the firebase panel or you can use another admin panel by getting the user token. Getting the device token method is also implemented.
+Bliksy is an order pick and delivery app built in Flutter using MVVM architecture and for the state management, I use the GETX package. When the rider creates his account he can also add his picture from the camera and gallery I also implement the firebase phone auth and FCM you can use it by adding it to your firebase project. Admin can fire the notification from the firebase panel or you can use another admin panel by getting the user token. Getting the device token method is also implemented.
 The app needs some improvements I can add more features in the future soon.
-You can support me ny buy me a coffee.
+You can support me by buying me a coffee.
 
 * <a href='https://www.buymeacoffee.com/ahsan44' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
 * [linkedin](https://www.linkedin.com/in/ahsan-khan-21198116a/)

@@ -10,6 +10,5 @@ class LangController extends GetxController{
   void changeLanguage(var param1, var param2){
     var locate = Locale(param1, param2);
       Get.updateLocale(locate);
-    
   }
 }

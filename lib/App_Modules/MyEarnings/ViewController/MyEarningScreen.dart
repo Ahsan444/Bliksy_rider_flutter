@@ -15,6 +15,7 @@ class MyEarning extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    DateTime now = DateTime.now();
     return Scaffold(
       backgroundColor: AppColors.BLUE_COLOR,
       appBar: AppBar(
@@ -141,7 +142,7 @@ class MyEarning extends StatelessWidget {
                                     Column(
                                       children: [
                                         AppText(
-                                            text: 'May 20 - 23',
+                                            text: '${now.day}/${now.month}',
                                             fontFamily: Weights.light,
                                             fontSize: AppDimensions.FONT_SIZE_14,
                                             textColor: AppColors.DARK_GREY_COLOR),
